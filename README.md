@@ -3,14 +3,16 @@
 
 Olá, essa é a resposta para a parte dois do desafio <https://www.proway.com.br/academiatecnicacapgeminidesafio>
 
-## Para executar o programa:
+## Para executar o programa: 
 
 1-Você deve simplesmente executar o arquivo executável (calculadora.exe).
+
 2-Após executar, deve fazer primeiro o cadastro de um cliente e em seguida de um orçamento.
+
 3-Após o primeiro cadastro, o mecanismo de busca/filtro já está operante.
 
-#Atenção 
-O sistema irá gerar um arquivo chamado "divulga_tudo.bd", NÂO apague esse arquvio, a menos que deseje apagar todos os dados já cadastrados. 
+#Atenção: 
+O sistema irá gerar um arquivo chamado "divulga_tudo.bd", NÃO apague esse arquvio, a menos que deseje apagar todos os dados já cadastrados. 
 
 
 
