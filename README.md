@@ -3,7 +3,7 @@
 
 Olá, essa é a resposta para a parte dois do desafio <https://www.proway.com.br/academiatecnicacapgeminidesafio>
 
-#Para executar o programa:
+## Para executar o programa:
 
 1-Você deve simplesmente executar o arquivo executável (calculadora.exe).
 2-Após executar, deve fazer primeiro o cadastro de um cliente e em seguida de um orçamento.
